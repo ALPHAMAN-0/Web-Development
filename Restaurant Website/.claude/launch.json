@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "foodio-dev",
+      "runtimeExecutable": "/bin/bash",
+      "runtimeArgs": ["-c", "export PATH=$HOME/.nvm/versions/node/v22.18.0/bin:$PATH && cd /Users/siam/Documents/POC/Jubayer/foodio && npx next dev --port 3001"],
+      "port": 3001
+    }
+  ]
+}
